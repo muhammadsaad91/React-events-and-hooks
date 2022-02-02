@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-events-and-hooks/static/css/main.b14b7bd7.css",
-    "main.js": "/React-events-and-hooks/static/js/main.60a9d309.js",
+    "main.css": "/React-events-and-hooks/static/css/main.a6bc11ce.css",
+    "main.js": "/React-events-and-hooks/static/js/main.a534c448.js",
     "index.html": "/React-events-and-hooks/index.html",
-    "main.b14b7bd7.css.map": "/React-events-and-hooks/static/css/main.b14b7bd7.css.map",
-    "main.60a9d309.js.map": "/React-events-and-hooks/static/js/main.60a9d309.js.map"
+    "main.a6bc11ce.css.map": "/React-events-and-hooks/static/css/main.a6bc11ce.css.map",
+    "main.a534c448.js.map": "/React-events-and-hooks/static/js/main.a534c448.js.map"
   },
   "entrypoints": [
-    "static/css/main.b14b7bd7.css",
-    "static/js/main.60a9d309.js"
+    "static/css/main.a6bc11ce.css",
+    "static/js/main.a534c448.js"
   ]
 }

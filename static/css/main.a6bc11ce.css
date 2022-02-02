@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.cards{background-color:#53f8f8;font-size:1rem;height:auto;text-align:center}.card,.cards{display:flex;flex-direction:column}.card{align-items:center;height:88vh;justify-content:center}button{background-color:aqua;border:2px solid #000;border-radius:10px;color:#000;cursor:pointer;font-size:8vw;height:auto;text-align:center;width:auto}button:hover{background-color:#000;border-radius:20px;color:aqua}
+/*# sourceMappingURL=main.a6bc11ce.css.map*/
