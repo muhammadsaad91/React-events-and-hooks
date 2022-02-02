@@ -6,7 +6,7 @@ const App=()=>{
     const [bg,setbg]= useState(yello);
     const [bgn,setbgn]=useState('saad')
     const name=()=>{
-         setbgn("saad bhai")
+         setbgn("Muhammad SaAd")
     };
     const bgchange=()=>{
       const purpl="purple"
